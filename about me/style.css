@@ -1,0 +1,23 @@
+h1 {
+  color: #ED2B05;
+  font-size: 36px;
+  font-weight: bolder;
+}
+h2 {
+    color: blue;
+}
+ol {
+font-size: 20px;
+
+}
+p {
+    font-size: 20px;
+}
+
+ol {
+    font-color: green;
+    font-style:oblique;
+}
+. Journalism {
+    font-display:unset;
+}
